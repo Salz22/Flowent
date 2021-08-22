@@ -1,5 +1,7 @@
 # Flowent
-.........
+
+
+<< Readme-edits
 
 Ideas and Concept of modern inputs
 
@@ -24,4 +26,4 @@ AI Concept,
 Government Concept,
 
 Budon Uprising.
-.......
+>>>main
