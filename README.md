@@ -8,3 +8,4 @@ Knowledge applyied to determie Outcomes.
 Collect Data from Responses,
 Viability of Responses,
 Weighting Effects on a Smalling Scale.
+.......
